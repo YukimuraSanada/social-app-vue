@@ -19,13 +19,6 @@ A full stack, fully-featured social media application using Vue, Firebase, Vuex,
 This project covers things such as integration/interactive with REST API server built with Node.js and Express, user login and authentication, image uploads, notifications, cloud functions, and much more. [Server of repository here](https://github.com/YukimuraSanada/fb-server).
 
 
-![alt text](https://i.imgur.com/beqN3ue.png)
-![alt text](https://i.imgur.com/LlXTjl1.png)
-![alt text](https://i.imgur.com/6Qdj14t.png)
-![alt text](https://i.imgur.com/PBAlv0I.png)
-![alt text](https://i.imgur.com/SPY99RI.png)
-![alt text](https://i.imgur.com/4ROmUzd.png)
-
 ### Important things to highlight:
 
 - Sign up and Auth State
